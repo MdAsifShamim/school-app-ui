@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+}
+
+.header-style {
+  display: flex;
+  background-color: #685044;
+  height: 55px;
+  align-items: center;
+  justify-content: space-around;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+.header-typography {
+  color: white;
+  font-size: 30;
+}
+.header-icon-style {
+  color: white;
+  /* padding-left: 100px; */
+}

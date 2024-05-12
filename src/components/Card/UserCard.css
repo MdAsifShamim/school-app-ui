@@ -1,0 +1,14 @@
+.user-card {
+  display: flex;
+  justify-content: space-around;
+  padding: 0px 20px;
+}
+.user_card_content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.usercard-typography {
+  color: rgb(17, 16, 16);
+}
